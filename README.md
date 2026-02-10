@@ -12,8 +12,7 @@
 ### **[https://ashwin-potash.duckdns.org/](https://ashwin-potash.duckdns.org/)**
 
 ### Video Demo & Documentation
-- **Video Demo**: [Google Drive Link](#) _(Add your drive link here)_
-- **Full Documentation**: [Google Drive Link](#) _(Add your drive link here)_
+- **Video Demo**: https://drive.google.com/file/d/1glsEyZyK4x1rEIbcux5FYfU1NiSGbr2O/view?usp=sharing
 
 ---
 
