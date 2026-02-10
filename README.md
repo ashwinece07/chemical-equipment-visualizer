@@ -145,7 +145,7 @@ chemical-equipment-visualizer/
 - **Server:** Ubuntu 22.04 LTS
 
 **Live URL:** [https://ashwin-potash.duckdns.org/](https://ashwin-potash.duckdns.org/)
-
+      
 ##  Sample Data Format
 
 ```csv
@@ -155,5 +155,3 @@ Reactor-A1,Reactor,200.0,45.8,120.5
 ```
 
 ---
-
-cal Engineers | POTASH v1.0.0**
