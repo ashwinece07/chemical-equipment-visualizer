@@ -18,8 +18,9 @@
 
 ##  What is POTASH?
 
-POTASH is a **hybrid web + desktop application** for chemical engineers to visualize, analyze, and monitor equipment parameters in real-time. Upload CSV files containing equipment data and get instant AI-powered insights, interactive charts, and detailed reports.
+POTASH is a hybrid web + desktop application for chemical engineers to visualize, analyze, and monitor equipment parameters in real-time. Upload CSV files containing equipment data and get instant AI-powered insights, interactive charts, and detailed reports.
 
+LIVE DEPLOYMENT: This platform is professionally hosted on Amazon Web Services (AWS) as a production-ready application. It features a secure HTTPS architecture powered by Nginx and Gunicorn, ensuring 24/7 uptime and industry-standard encryption for sensitive chemical engineering data.
 ---
 
 ##  What It Does
@@ -130,7 +131,6 @@ chemical-equipment-visualizer/
 **Desktop Frontend:** PyQt5, Matplotlib, Requests
 
 ---
-```
 
 ---
 
