@@ -1,4 +1,4 @@
-# 🧪 POTASH - Chemical Equipment Parameter Visualizer
+#  POTASH - Chemical Equipment Parameter Visualizer
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Django](https://img.shields.io/badge/Django-4.2.7-green.svg)
@@ -7,35 +7,35 @@
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-### **🚀 [https://ashwin-potash.duckdns.org/](https://ashwin-potash.duckdns.org/)**
+### **[https://ashwin-potash.duckdns.org/](https://ashwin-potash.duckdns.org/)**
 
-### 📹 Video Demo & Documentation
+### Video Demo & Documentation
 - **Video Demo**: [Google Drive Link](#) _(Add your drive link here)_
 - **Full Documentation**: [Google Drive Link](#) _(Add your drive link here)_
 
 ---
 
-## 📖 What is POTASH?
+##  What is POTASH?
 
 POTASH is a **hybrid web + desktop application** for chemical engineers to visualize, analyze, and monitor equipment parameters in real-time. Upload CSV files containing equipment data and get instant AI-powered insights, interactive charts, and detailed reports.
 
 ---
 
-## ✨ What It Does
+##  What It Does
 
-- 📊 **Analyzes chemical equipment data** from CSV files
-- 🤖 **Generates AI-powered insights** using Google Gemini
-- 📈 **Creates interactive visualizations** (7 chart types)
-- 📄 **Exports encrypted PDF/Excel reports**
-- ⚖️ **Compares multiple datasets** side-by-side
-- 🔐 **Secure authentication** with JWT tokens
-- 🌓 **Dark/Light theme** support
+-  **Analyzes chemical equipment data** from CSV files
+-  **Generates AI-powered insights** using Google Gemini
+-  **Creates interactive visualizations** (7 chart types)
+-  **Exports encrypted PDF/Excel reports**
+-  **Compares multiple datasets** side-by-side
+-  **Secure authentication** with JWT tokens
+-  **Dark/Light theme** support
 
 ---
 
-## 🎯 Features
+##  Features
 
 ### Web Application
 - JWT Authentication (Login/Signup)
@@ -58,8 +58,11 @@ POTASH is a **hybrid web + desktop application** for chemical engineers to visua
 - Cross-platform (Windows, macOS, Linux)
 
 ---
+<img width="1887" height="970" alt="image" src="https://github.com/user-attachments/assets/02b32e62-59b6-47e9-be04-511ad9e0aba3" />
+<img width="1399" height="933" alt="image" src="https://github.com/user-attachments/assets/0815ef53-34c6-489b-b1b9-a1c8bcfa1028" />
+<img width="1390" height="918" alt="image" src="https://github.com/user-attachments/assets/8c473dbf-a244-4b8d-8e29-96b9856a1452" />
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.9+
@@ -101,7 +104,7 @@ python src/main.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 chemical-equipment-visualizer/
@@ -119,7 +122,7 @@ chemical-equipment-visualizer/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend:** Django, Django REST Framework, Pandas, NumPy, Matplotlib, Google Gemini AI
 
@@ -129,7 +132,7 @@ chemical-equipment-visualizer/
 
 ---
 
-## 📊 Sample Data Format
+##  Sample Data Format
 
 ```csv
 Equipment_Name,Type,Flowrate,Pressure,Temperature
@@ -139,10 +142,4 @@ Reactor-A1,Reactor,200.0,45.8,120.5
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
-**Built with ❤️ for Chemical Engineers | POTASH v1.0.0**
+cal Engineers | POTASH v1.0.0**
