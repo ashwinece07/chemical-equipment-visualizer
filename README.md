@@ -130,6 +130,21 @@ chemical-equipment-visualizer/
 **Desktop Frontend:** PyQt5, Matplotlib, Requests
 
 ---
+```
+
+---
+
+##  AWS Deployment
+
+**Deployed on:** AWS EC2 (ap-south-1 - Mumbai)
+
+**Architecture:**
+- **Frontend:** React app served via Nginx
+- **Backend:** Django REST API with Gunicorn
+- **Domain:** DuckDNS with SSL (Let's Encrypt)
+- **Server:** Ubuntu 22.04 LTS
+
+**Live URL:** [https://ashwin-potash.duckdns.org/](https://ashwin-potash.duckdns.org/)
 
 ##  Sample Data Format
 
